@@ -25,6 +25,10 @@
 |:---:|:---:|
 |<img src="./images/nncs (10).png" width="600" height="800"/>|<img src="./images/nncs (12).png" width="600" height="800"/>|
 
-|Data Wrangling|Neural Network Graphs|
+|Data Wrangling|Data Wrangling|
 |:---:|:---:|
 |<img src="./images/nncs (1).jpg" width="600" height="800"/>|<img src="./images/nncs (3).jpg" width="600" height="800"/>|
+
+|Common Data Structure Operation|Array Sorting Algorithms|
+|:---:|:---:|
+|<img src="./images/nncs (13).png" width="600" height="400"/>|<img src="./images/nncs (11).png" width="600" height="400"/>|
