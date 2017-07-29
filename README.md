@@ -20,3 +20,11 @@
 |Data Visualization|Data Visualization|
 |:---:|:---:|
 |<img src="./images/nncs (5).jpg" width="600" height="400"/>|<img src="./images/nncs (7).jpg" width="600" height="400"/>|
+
+|Neural Network|Neural Network Graphs|
+|:---:|:---:|
+|<img src="./images/nncs (10).png" width="600" height="800"/>|<img src="./images/nncs (12).png" width="600" height="800"/>|
+
+|Data Wrangling|Neural Network Graphs|
+|:---:|:---:|
+|<img src="./images/nncs (1).jpg" width="600" height="800"/>|<img src="./images/nncs (3).jpg" width="600" height="800"/>|
